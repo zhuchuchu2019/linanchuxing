@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/top_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background_topbar">
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_back" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8.0dip"
+            android:layout_toRightOf="@+id/btn_back"
+            android:background="@drawable/edittext_bg"
+            android:orientation="horizontal"
+            android:paddingBottom="1.0dip"
+            android:paddingTop="1.0dip">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="8.0dip"
+                android:layout_toLeftOf="@+id/btn_refresh">
+
+                <EditText
+                    android:id="@+id/editText_place"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/progressBar"
+                    android:background="@null"
+                    android:completionThreshold="1"
+                    android:hint="输入地址信息"
+                    android:maxLines="1"
+                    android:textSize="18sp" />
+
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    style="?android:attr/progressBarStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="8.0dip"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <!--<Button-->
+                <!--android:id="@+id/btn_refresh"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:background="@drawable/btn_match"-->
+                <!--android:text="搜索"-->
+                <!--android:textColor="@color/white"-->
+                <!--android:textSize="14.0sp" />-->
+
+            <ImageButton
+                android:id="@+id/btn_voice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/list_item_bg"
+                android:src="@drawable/btn_voice"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:elevation="0dp" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <!--<Button-->
+        <!--android:id="@+id/btn_ads_querty"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:visibility="invisible"-->
+        <!--android:text="搜索"/>-->
+
+    <ProgressBar
+        android:id="@+id/pb_ads_progbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"/>
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5.0dip"
+        android:layout_marginRight="5.0dip"
+        android:background="@color/white"
+        android:cacheColorHint="@color/transparent" />
+
+
+</LinearLayout>

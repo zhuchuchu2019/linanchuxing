@@ -1,0 +1,5 @@
+<map id="com.example.linan.RouteAdapter.onBindViewHolder" name="com.example.linan.RouteAdapter.onBindViewHolder">
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1linan_1_1_route_info.html#a530f181aef3d4e442d6907e1ad1e1824" title="com.example.linan.RouteInfo.getName" alt="" coords="285,5,531,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1linan_1_1_route_info.html#a8b537b58d8a9b463bd3b640cf8f84c0c" title="com.example.linan.RouteInfo.get\lStart" alt="" coords="303,57,513,98"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1linan_1_1_route_info.html#a62e59c977f2d786a02cbbe745991bce8" title="com.example.linan.RouteInfo.getEnd" alt="" coords="291,123,525,149"/>
+</map>

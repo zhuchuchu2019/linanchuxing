@@ -1,0 +1,5 @@
+<map id="com.example.linan.StationAdapter.onBindViewHolder" name="com.example.linan.StationAdapter.onBindViewHolder">
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1linan_1_1_station.html#a17db079af311a425b67f658c899b4236" title="com.example.linan.Station.getName" alt="" coords="229,5,461,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1linan_1_1_station.html#a1e2678c6d1c15477f27fe7eb082c568b" title="com.example.linan.Station.get\lImageId" alt="" coords="246,57,445,98"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1linan_1_1_station.html#a9dadc1ab5945131cb4f5ac7cca5529ff" title="com.example.linan.Station.get\lImageIdL" alt="" coords="246,122,445,163"/>
+</map>

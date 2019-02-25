@@ -1,0 +1,11 @@
+<map id="com.example.linan.MainActivity.onCreate" name="com.example.linan.MainActivity.onCreate">
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1linan_1_1_bottom_bar.html#aa04a9f003bb9bb5ac6fe75de6ba0bc39" title="com.example.linan.Bottom\lBar.setContainer" alt="" coords="290,5,467,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1linan_1_1_bottom_bar.html#a35321af638994bdde4270a07e0dcafa3" title="com.example.linan.Bottom\lBar.setTitleBeforeAndAfterColor" alt="" coords="276,71,481,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1linan_1_1_bottom_bar.html#ab7cd641803e7f5d3e0d151fcf8055b39" title="com.example.linan.Bottom\lBar.setIconHeight" alt="" coords="290,136,467,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1linan_1_1_bottom_bar.html#a3e467c0a02571b2e94c082bf5cf9353f" title="com.example.linan.Bottom\lBar.setIconWidth" alt="" coords="290,201,467,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1linan_1_1_bottom_bar.html#accc1493359f27997ce6c17f6994ed650" title="com.example.linan.Bottom\lBar.setTitleSize" alt="" coords="290,267,467,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1linan_1_1_bottom_bar.html#a3a38827c4251f416c2d788ca2f8f1fa8" title="com.example.linan.Bottom\lBar.setTitleIconMargin" alt="" coords="290,332,467,373"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1linan_1_1_bottom_bar.html#a0ebaca48fc19d137198a5c8a1e73703e" title="com.example.linan.Bottom\lBar.addItem" alt="" coords="290,397,467,439"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1linan_1_1_bottom_bar.html#ad7938747a8656ba1049a81a4b521c127" title="com.example.linan.Bottom\lBar.build" alt="" coords="290,463,467,504"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1linan_1_1_bottom_bar.html#a488281c701478190aa0da971b053c4b1" title="com.example.linan.Bottom\lBar.switchFragment" alt="" coords="529,463,707,504"/>
+</map>
